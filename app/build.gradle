@@ -85,7 +85,6 @@ dependencies {
     implementation 'com.github.rumboalla.KryptoPrefs:kryptoprefs-gson:0.4.3'
     implementation 'com.github.rumboalla.fuel:fuel:-SNAPSHOT'
     implementation 'com.github.rumboalla.fuel:fuel-gson:-SNAPSHOT'
-    implementation 'com.startapp:inapp-sdk:4.3.0'
     implementation 'eu.chainfire:libsuperuser:1.1.0.201907261845'
     implementation 'com.github.whyorean:playstore-api-v2:2.4'
     implementation 'ch.acra:acra-http:5.4.0'
